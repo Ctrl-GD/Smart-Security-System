@@ -48,3 +48,5 @@ An Arduino Uno-based smart security system featuring RC522 RFID access and a TTP
 2. System events and status updates are transmitted to the **Processing** desktop interface via `Serial.println()`.
 3. After **3 consecutive wrong password entries**, the system enters a locked state and activates the alarm (Buzzer, KY-016 RGB LED, and LCD alert).
 4. While locked, unlocking is restricted to sending the correct password from the **MIT App Inventor** mobile app via the **HC-05** Bluetooth module.
+## Screenshots
+![Smart Security System Setup](Assets/Smart_Security_System_photo.jpeg)
