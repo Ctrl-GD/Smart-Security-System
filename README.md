@@ -50,3 +50,4 @@ An Arduino Uno-based smart security system featuring RC522 RFID access and a TTP
 4. While locked, unlocking is restricted to sending the correct password from the **MIT App Inventor** mobile app via the **HC-05** Bluetooth module.
 ## Screenshots
 ![Smart Security System Setup](Assets/Smart_Security_System_photo.jpeg)
+![SmartLock Security Command Center](Assets/security_processing_photo.png)
